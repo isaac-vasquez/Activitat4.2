@@ -1,0 +1,51 @@
+
+
+/**ENCABEZADO**/
+
+h1{
+    color: #939;
+}
+
+h2{
+    color:  #cc6600;
+}
+
+/**BACKGROUND PÁGINA**/
+
+body{
+    background-color: #d2dc9d;
+
+}
+
+#header {
+    background-color: white;
+    opacity: 50%;
+    background-image: url(/Images/purpledot.png);
+    background-repeat: repeat-x;
+}
+
+body{
+    background-image: url(/images/blackgoose.png);
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/**LINKS**/
+#info li{
+    color:  #939;
+}
+
+a:hover {
+    color:#c700f2; /* morado */
+    background-color: white;
+    }
+
+a:visited {
+        color: #937393; /* purpura */
+        }
+
+a:active {
+    color: #ff00ff;
+    background-color: white;
+}
